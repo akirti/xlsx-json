@@ -5,7 +5,7 @@ This Notebook File can be help for createing the JSON Schema from xls file which
 Input Josn 
 ```
 inps = {
-        "filePath" : "/Users/anand/Documents/sayansi/workspaces/condaws/xlsx-json/samplefile",
+        "filePath" : "/samplefile",
         "fileName" : "kfk.xlsx",
         "columnNames" : ["Source Topic",
             "Schema",
