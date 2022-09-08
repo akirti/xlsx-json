@@ -1,6 +1,6 @@
 # xlsx-json
 
-This Notebook File can be help for createing the JSON Schema from xls file which follows the patter as per given sample file.
+This Notebook File can be a help for createing the JSON Schema from xls file which follows the patter as per given sample file.
 
 Input Josn 
 ```
