@@ -179,18 +179,25 @@
         }
       }
     },
+    "ZEBRA": {
+      "description": "Zebra",
+      "type": "object",
+      "code": "Zebra",
+      "properties": {
+        "ZEBRAname": {
+          "description": "This Is Zebra Zebraname Field",
+          "type": "string",
+          "code": "This Is Zebra Zebraname Field",
+          "minLength": 0,
+          "maxLength": 40
+        }
+      }
+    },
     "Zenga": {
       "description": "Zenga",
       "type": "object",
       "code": "Zenga",
       "properties": {
-        "Zenganame": {
-          "description": "This Is Zenga Zenganame Field",
-          "type": "string",
-          "code": "This Is Zenga Zenganame Field",
-          "minLength": 0,
-          "maxLength": 40
-        },
         "RollaZenga": {
           "description": "Rollazenga File",
           "type": "string",
