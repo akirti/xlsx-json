@@ -86,11 +86,18 @@
                   }
                 }
               },
-              "Tpk15": {
-                "AS": {
-                  "ASName": 1
+              "Tpk15": [
+                {
+                  "AS": {
+                    "ASName": 1
+                  }
+                },
+                {
+                  "AS": {
+                    "ASName": 3
+                  }
                 }
-              }
+              ]
             },
             {
               "UNIVERSEName": 8,
@@ -109,11 +116,18 @@
                   }
                 }
               },
-              "Tpk15": {
-                "AS": {
-                  "ASName": 2
+              "Tpk15": [
+                {
+                  "AS": {
+                    "ASName": 6
+                  }
+                },
+                {
+                  "AS": {
+                    "ASName": 5
+                  }
                 }
-              }
+              ]
             },
             {
               "UNIVERSEName": 7,
