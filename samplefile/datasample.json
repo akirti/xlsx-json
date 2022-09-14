@@ -1,0 +1,163 @@
+{
+  "Tpk1": {
+    "ZEBRA": [
+      {
+        "ZEBRAName": 1
+      }
+    ],
+    "Tpk2": {
+      "MARS": {
+        "MARSName": 1,
+        "Tpk3": {
+          "SUN": {
+            "SUNName": 1
+          }
+        },
+        "Tpk4": {
+          "MOON": {
+            "MOONName": 1
+          }
+        },
+        "Tpk5": {
+          "EARTH": {
+            "EARTHName": 1
+          },
+          "Tpk6": [
+            {
+              "PLANET": {
+                "PLANETName": 1
+              }
+            },
+            {
+              "PLANET": {
+                "PLANETName": 2
+              }
+            },
+            {
+              "PLANET": {
+                "PLANETName": 3
+              }
+            }
+          ],
+          "Tpk7": [
+            {
+              "SATALITE": {
+                "SATALITEName": 1
+              }
+            },
+            {
+              "SATALITE": {
+                "SATALITEName": 2
+              }
+            },
+            {
+              "SATALITE": {
+                "SATALITEName": 3
+              }
+            }
+          ]
+        },
+        "Tpk8": {
+          "SOLAR": {
+            "SOLARName": 1,
+            "Tpk9": {
+              "BLAKHOLE": {
+                "BLAKHOLEName": 1
+              }
+            }
+          }
+        },
+        "Tpk10": {
+          "UNIVERSE": [
+            {
+              "UNIVERSEName": 1,
+              "Tpk12": {
+                "GALAXY": {
+                  "GALAXYName": 1
+                }
+              },
+              "Tpk13": {
+                "CENTERPT": {
+                  "CENTERPTName": 1,
+                  "Tpk14": {
+                    "HOLE": {
+                      "HOLEName": 1
+                    }
+                  }
+                }
+              },
+              "Tpk15": {
+                "AS": {
+                  "ASName": 1
+                }
+              }
+            },
+            {
+              "UNIVERSEName": 8,
+              "Tpk12": {
+                "GALAXY": {
+                  "GALAXYName": 2
+                }
+              },
+              "Tpk13": {
+                "CENTERPT": {
+                  "CENTERPTName": 2,
+                  "Tpk14": {
+                    "HOLE": {
+                      "HOLEName": 2
+                    }
+                  }
+                }
+              },
+              "Tpk15": {
+                "AS": {
+                  "ASName": 2
+                }
+              }
+            },
+            {
+              "UNIVERSEName": 7,
+              "Tpk12": {
+                "GALAXY": {
+                  "GALAXYName": 2
+                }
+              },
+              "Tpk13": {
+                "CENTERPT": {
+                  "CENTERPTName": 2,
+                  "Tpk14": {
+                    "HOLE": {
+                      "HOLEName": 2
+                    }
+                  }
+                }
+              },
+              "Tpk15": [
+                {
+                  "AS": {
+                    "ASName": 7
+                  }
+                },
+                {
+                  "AS": {
+                    "ASName": 8
+                  }
+                },
+                {
+                  "AS": {
+                    "ASName": 9
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "Tpk11": {
+          "DAP": {
+            "DAPName": 1
+          }
+        }
+      }
+    }
+  }
+}
