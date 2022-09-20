@@ -1,0 +1,215 @@
+{
+  "$id": "https://localhost/schema/{}.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "('Final NoSQL JSON Schema',)",
+  "description": "This is Final Master Attribute Schema which is hosted for Keeping Data From NoSQL Schema",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^[A-Za-z0-9_]+$"
+  },
+  "properties": {
+    "MARS": {
+      "description": "Mars",
+      "type": "object",
+      "code": "Mars",
+      "properties": {
+        "MARSname": {
+          "description": "This Is Marname \nAnd This Is Second Line",
+          "type": "number",
+          "code": "This Is Marname And This Is Second Line",
+          "format": "double",
+          "minimum": 0,
+          "maximum": 999999
+        },
+        "SUN": {
+          "description": "Sun",
+          "type": "object",
+          "code": "Sun",
+          "properties": {
+            "MARS.SUNname": {
+              "description": "This Is Mars.Sun Mars.Sunname Field",
+              "type": "string",
+              "code": "This Is Mars.Sun Mars.Sunname Field",
+              "minLength": 0,
+              "maxLength": 550
+            }
+          }
+        },
+        "MOON": {
+          "description": "Moon",
+          "type": "object",
+          "code": "Moon",
+          "properties": {
+            "MARS.MOONname": {
+              "description": "This Is Mars.Moon Mars.Moonname Field",
+              "type": "integer",
+              "code": "This Is Mars.Moon Mars.Moonname Field",
+              "minimum": 0,
+              "maximum": 2147483647
+            }
+          }
+        },
+        "EARTH": {
+          "description": "Earth",
+          "type": "object",
+          "code": "Earth",
+          "properties": {
+            "MARS.EARTHname": {
+              "description": "This Is Mars.Earth Mars.Earthname Field",
+              "type": "float",
+              "code": "This Is Mars.Earth Mars.Earthname Field"
+            },
+            "PLANET": {
+              "description": "Planet",
+              "type": "object",
+              "code": "Planet",
+              "properties": {
+                "MARS.EARTH.PLANETname": {
+                  "description": "This Is Mars.Earth.Planet Mars.Earth.Planetname Field",
+                  "type": "string",
+                  "code": "This Is Mars.Earth.Planet Mars.Earth.Planetname Field",
+                  "minLength": 0,
+                  "maxLength": 40
+                }
+              }
+            },
+            "SATALITE": {
+              "description": "Satalite",
+              "type": "object",
+              "code": "Satalite",
+              "properties": {
+                "MARS.EARTH.SATALITEname": {
+                  "description": "This Is Mars.Earth.Satalite Mars.Earth.Satalitename Field",
+                  "type": "integer",
+                  "code": "This Is Mars.Earth.Satalite Mars.Earth.Satalitename Field",
+                  "minimum": 0,
+                  "maximum": 2147483647
+                }
+              }
+            }
+          }
+        },
+        "SOLAR": {
+          "description": "Solar",
+          "type": "object",
+          "code": "Solar",
+          "properties": {
+            "MARS.SOLARname": {
+              "description": "This Is Mars.Solar Mars.Solarname Field",
+              "type": "integer",
+              "code": "This Is Mars.Solar Mars.Solarname Field",
+              "minimum": 0,
+              "maximum": 2147483647
+            },
+            "BLAKHOLE": {
+              "description": "Blakhole",
+              "type": "object",
+              "code": "Blakhole",
+              "properties": {
+                "MARS.SOLAR.BLAKHOLEname": {
+                  "description": "This Is Mars.Solar.Blakhole Mars.Solar.Blakholename Field",
+                  "type": "string",
+                  "code": "This Is Mars.Solar.Blakhole Mars.Solar.Blakholename Field",
+                  "minLength": 0,
+                  "maxLength": 60
+                }
+              }
+            }
+          }
+        },
+        "UNIVERSE": {
+          "description": "Universe",
+          "type": "object",
+          "code": "Universe",
+          "properties": {
+            "MARS.UNIVERSEname": {
+              "description": "This Is Mars.Universe Mars.Universename Field",
+              "type": "integer",
+              "code": "This Is Mars.Universe Mars.Universename Field",
+              "minimum": 0,
+              "maximum": 2147483647
+            },
+            "GALAXY": {
+              "description": "Galaxy",
+              "type": "object",
+              "code": "Galaxy",
+              "properties": {
+                "MARS.UNIVERSE.GALAXYname": {
+                  "description": "This Is Mars.Universe.Galaxy Mars.Universe.Galaxyname Field",
+                  "type": "integer",
+                  "code": "This Is Mars.Universe.Galaxy Mars.Universe.Galaxyname Field",
+                  "minimum": 0,
+                  "maximum": 2147483647
+                }
+              }
+            },
+            "CENTERPT": {
+              "description": "Centerpt",
+              "type": "object",
+              "code": "Centerpt",
+              "properties": {
+                "MARS.UNIVERSE.CENTERPTname": {
+                  "description": "This Is Mars.Universe.Centerpt Mars.Universe.Centerptname Field",
+                  "type": "array",
+                  "code": "This Is Mars.Universe.Centerpt Mars.Universe.Centerptname Field",
+                  "items": {
+                    "description": "This Is Mars.Universe.Centerpt Mars.Universe.Centerptname Field",
+                    "type": "object",
+                    "code": "This Is Mars.Universe.Centerpt Mars.Universe.Centerptname Field",
+                    "properties": {
+                      
+
+                    }
+                  }
+                },
+                "HOLE": {
+                  "description": "Hole",
+                  "type": "object",
+                  "code": "Hole",
+                  "properties": {
+                    "MARS.UNIVERSE.CENTERPT.HOLEname": {
+                      "description": "This Is Mars.Universe.Centerpt.Hole Mars.Universe.Centerpt.Holename Field",
+                      "type": "integer",
+                      "code": "This Is Mars.Universe.Centerpt.Hole Mars.Universe.Centerpt.Holename Field",
+                      "minimum": 0,
+                      "maximum": 2147483647
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ZEBRA": {
+      "description": "Zebra",
+      "type": "object",
+      "code": "Zebra",
+      "properties": {
+        "ZEBRAname": {
+          "description": "This Is Zebra Zebraname Field",
+          "type": "string",
+          "code": "This Is Zebra Zebraname Field",
+          "minLength": 0,
+          "maxLength": 40
+        }
+      }
+    },
+    "Zenga": {
+      "description": "Zenga",
+      "type": "object",
+      "code": "Zenga",
+      "properties": {
+        "RollaZenga": {
+          "description": "Rollazenga File",
+          "type": "string",
+          "code": "Rollazenga File",
+          "minLength": 0,
+          "maxLength": 40
+        }
+      }
+    }
+  },
+  "additionalProperties": "false"
+}
