@@ -1,0 +1,244 @@
+{
+  "MARS": {
+    "MARSName": 153.88142510307736,
+    "SUN": {
+      "SUNName": "MXrUC"
+    },
+    "MOON": {
+      "MOONName": 3
+    },
+    "EARTH": {
+      "EARTHName": "W2dkA_typeNotFound",
+      "PLANET": [
+        {
+          "PLANETName": "MdyvQ"
+        },
+        {
+          "PLANETName": "ZmcEO"
+        },
+        {
+          "PLANETName": "0yIgi"
+        }
+      ],
+      "SATALITE": [
+        {
+          "SATALITEName": 2
+        },
+        {
+          "SATALITEName": 5
+        },
+        {
+          "SATALITEName": 3
+        }
+      ]
+    },
+    "SOLAR": {
+      "SOLARName": 3,
+      "BLAKHOLE": {
+        "BLAKHOLEName": "xeDMp"
+      }
+    },
+    "UNIVERSE": [
+      {
+        "UNIVERSEName": 4,
+        "GALAXY": {
+          "GALAXYName": 7
+        },
+        "CENTERPT": [
+          {
+            "CENTERPTName": [
+              "xeu2a",
+              "d34IV",
+              "uJWmt"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 5
+              },
+              {
+                "HOLEName": 5
+              },
+              {
+                "HOLEName": 0
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "DDafR",
+              "atbQN",
+              "TlPOa"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 7
+              },
+              {
+                "HOLEName": 2
+              },
+              {
+                "HOLEName": 3
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "lXaOa",
+              "mBldY",
+              "MWV9E"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 2
+              },
+              {
+                "HOLEName": 2
+              },
+              {
+                "HOLEName": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "UNIVERSEName": 1,
+        "GALAXY": {
+          "GALAXYName": 6
+        },
+        "CENTERPT": [
+          {
+            "CENTERPTName": [
+              "CdSu7",
+              "6gAbn",
+              "CxSl1"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 8
+              },
+              {
+                "HOLEName": 2
+              },
+              {
+                "HOLEName": 7
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "sV9dB",
+              "UDA1t",
+              "R55aX"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 4
+              },
+              {
+                "HOLEName": 0
+              },
+              {
+                "HOLEName": 8
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "BJArE",
+              "TXls9",
+              "jK9le"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 2
+              },
+              {
+                "HOLEName": 1
+              },
+              {
+                "HOLEName": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "UNIVERSEName": 9,
+        "GALAXY": {
+          "GALAXYName": 8
+        },
+        "CENTERPT": [
+          {
+            "CENTERPTName": [
+              "YI8xQ",
+              "dUi3E",
+              "6sygP"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 7
+              },
+              {
+                "HOLEName": 9
+              },
+              {
+                "HOLEName": 8
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "NSbZs",
+              "8TzMl",
+              "0iPBW"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 5
+              },
+              {
+                "HOLEName": 3
+              },
+              {
+                "HOLEName": 1
+              }
+            ]
+          },
+          {
+            "CENTERPTName": [
+              "x778s",
+              "sxQRN",
+              "WzliC"
+            ],
+            "HOLE": [
+              {
+                "HOLEName": 7
+              },
+              {
+                "HOLEName": 6
+              },
+              {
+                "HOLEName": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ZEBRA": [
+    {
+      "ZEBRAName": "6fH11"
+    },
+    {
+      "ZEBRAName": "mgGDe"
+    },
+    {
+      "ZEBRAName": "v0VTG"
+    }
+  ],
+  "Zenga": {
+    "RollaZenga": "D56M6"
+  }
+}

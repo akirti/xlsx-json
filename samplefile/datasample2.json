@@ -1,0 +1,136 @@
+{
+  "APC":{
+    "ZYX":{
+      "Tpk1":[{
+        "ZEBRAName": "Zebra Name tpk1"
+      }],
+      "Tpk2":{
+        "MARSName": "this is mars name",
+        "Tpk3": {
+          "SUNName": "this is sun name"
+        },
+        "Tpk4": {
+          "MOONName": "this is moon name"
+        },
+        "Tpk5": {
+          "EARTHName": "this is earth name",
+          "Tpk6": [
+            {
+              "PLANETName": "this is planet name 1"
+            },
+            {
+              "PLANETName": "this is planet name 2"
+            },
+            {
+              "PLANETName": "this is planet name 3"
+            }
+          ],
+          "Tpk7": [
+            {
+              "SATALITEName": "this is stalite name 1"
+            },
+            {
+              "SATALITEName": "this is stalite name 2"
+            },
+            {
+              "SATALITEName": "this is stalite name 3"
+            }
+          ]
+        },
+        "Tpk8": {
+          "SOLARName": "this is solar name ",
+            "Tpk9": {
+              "BLAKHOLEName": "this is blackhole name "
+            }
+        },
+        "Tpk10": [
+            {
+              "UNIVERSEName": "this is unieverse name 1",
+              "Tpk12": {
+                "GALAXYName": "this is galaxy name 1"
+              },
+              "Tpk13": [
+                  {"CENTERPTName": ["centerpt name 1","centerpt name 2","centerpt name 3"],
+                    "Tpk14": [
+                      {"HOLEName": "this is hole name 1"},
+                      {"HOLEName": "this is hole name 2"},
+                      {"HOLEName": "this is hole name 3"}
+                    ]
+                  },
+                  {"CENTERPTName": ["centerpt name 11","centerpt name 22","centerpt name 33"],
+                    "Tpk14": [
+                      {"HOLEName": "this is hole name 11"},
+                      {"HOLEName": "this is hole name 22"},
+                      {"HOLEName": "this is hole name 33"}
+                    ]
+                  },
+                  {"CENTERPTName": ["centerpt name 12","centerpt name 23","centerpt name 34"],
+                    "Tpk14": [
+                      {"HOLEName": "this is hole name 12"},
+                      {"HOLEName": "this is hole name 23"},
+                      {"HOLEName": "this is hole name 34"}
+                    ]
+                  }
+
+                ],
+              "Tpk15": [
+                {
+                  "ASName": "this is as name 1"
+                },
+                {
+                  "ASName": "this is as name 2"
+                }
+              ]
+            },
+            {
+              "UNIVERSEName": "this is unieverse name 2",
+              "Tpk12": {
+                "GALAXYName": "this is galexy name 2"
+              },
+              "Tpk13": {
+                "CENTERPTName": "this is centerpt name 2",
+                  "Tpk14": {
+                    "HOLEName": "this is hole name 2"
+                  }
+              },
+              "Tpk15": [
+                {
+                  "ASName": "this is as name x"
+                },
+                {
+                  "ASName":  "this is as name y"
+                }
+              ]
+            },
+            {
+              "UNIVERSEName":   "this is unieverse name 32",
+              "Tpk12": {
+                "GALAXYName": "this is galexy name 3"
+              },
+              "Tpk13": {
+                "CENTERPTName": "this is centerpt name 3",
+                  "Tpk14": {
+                    "HOLEName": "this is hole name 3"
+                  }
+              },
+              "Tpk15": [
+                {
+                  "ASName": "this is as name x1"
+                },
+                {
+                  "ASName": "this is as name x2"
+                },
+                {
+                  "ASName": "this is as name x4"
+                }
+              ]
+            }
+          ]
+        ,
+        "Tpk11": {
+          "DAPName": "this is dap name "
+        }
+      }
+    }
+  }
+}
